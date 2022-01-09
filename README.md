@@ -3,8 +3,7 @@
 | Installation: 
 • git clone https://github.com/Azuremods/PyMaskPhish
 • cd PyMaskPhish
-• pip install colorama
-• pip install gdshortener
+• bash install.sh
 
 | Run: 
 • python MaskPhish.py
